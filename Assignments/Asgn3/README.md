@@ -30,7 +30,8 @@ Docker is a way to wrap a solution with all it's dependencies in a container as 
 
 ### Acknowledgements
 + The first reading is directly from the Docker documentations as a general overview of how to work with and how Docker works.
-+ Integration with other tools is referred directly from documentations as they are from regularly updated packages. 
++ Integration with other tools is referred directly from documentations as they are from regularly updated packages.
++ [Prakhar Srivastav](http://prakhar.me/) is a grad student in Columbia University's CS department with one of the most complete crash courses on Docker listing many alternatives in his course. His GitHub repo for the course has active discussion on the issues of the course and is actively updated making it a reliable source as well as appearing in several Quora answers on the topic. 
 
 ## In-class assignment
 + (Installation of Docker will be verified in class through makeing them pull an image that will poll them for their ID's and will be stored in a DB).
