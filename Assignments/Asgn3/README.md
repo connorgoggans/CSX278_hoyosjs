@@ -35,3 +35,13 @@ Docker is a way to wrap a solution with all it's dependencies in a container as 
 
 ## In-class assignment
 + (Installation of Docker will be verified in class through makeing them pull an image that will poll them for their ID's and will be stored in a DB).
+
+## Team members
++ Campbel, Grey
++ Chung, Hoon Tae
++ Degroot, Max
++ Goggans, Connor A
++ Hoyos Ayala, Juan Sebastian
++ Hua, Hongtao
++ Samost, Jonah
++ Mbusa, Paul
