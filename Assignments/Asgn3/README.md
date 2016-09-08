@@ -37,11 +37,11 @@ Docker is a way to wrap a solution with all it's dependencies in a container as 
 + (Installation of Docker will be verified in class through makeing them pull an image that will poll them for their ID's and will be stored in a DB).
 
 ## Team members
-+ Campbel, Grey
-+ Chung, Hoon Tae
-+ Degroot, Max
-+ Goggans, Connor A
-+ Hoyos Ayala, Juan Sebastian
-+ Hua, Hongtao
-+ Samost, Jonah
-+ Mbusa, Paul
++ [Campbell, Grey](mailto:grey.e.campbell@vanderbilt.edu)
++ [Chung, Hoon Tae](mailto:hoon.tae.chung@vanderbilt.edu)
++ [Degroot, Max](mailto:alexander.m.degroot@vanderbilt.edu)
++ [Goggans, Connor A](mailto:connor.goggans@vanderbilt.edu)
++ [Hoyos Ayala, Juan Sebastian](mailto:juan.s.hoyos@vanderbilt.edu)
++ [Hua, Hongtao](mailto:hongtao.hua@vanderbilt.edu)
++ [Samost, Jonah](mailto:jonah.samost@vanderbilt.edu)
++ [Mbusa, Paul](mailto:paul.y.mbusa@vanderbilt.edu)
