@@ -1,6 +1,6 @@
 # Assignment 3: Docker 
 ## Introduction
-Docker is a way to wrap a solution with all it's dependencies in a container as a lightweight alternative to virtual machines and solving problems like dependency hell and deployment optimization. In order to ramp up with it to be able to package solutions the following will be needed:
+Docker is a way to wrap a solution with all it's dependencies in a container as a lightweight alternative to virtual machines and solving problems like dependency hell and deployment optimization. In order to ramp up and be able to package solutions the following will be needed:
 
 ## Complete by 9/29
 ### Dependencies
@@ -16,16 +16,16 @@ Docker is a way to wrap a solution with all it's dependencies in a container as 
 + Optional: Java, Python, and PiP are required if you want to 
 
 ### Readings
-+ Work through the [Docker Documentation](https://docs.docker.com/engine/understanding-docker/) the steps in 'Get Started with Docker' to get the basics of Docker. If you are running on windows make sure you are running the MINGW console (either the one install by Git or the one installed through Docker) as some of the commands are not available in powershell (such as touch).
++ Work through the [Docker Documentation](https://docs.docker.com/engine/understanding-docker/) the steps in 'Get Started with Docker' to get the basics of Docker. If you are running on Windows make sure you are running the MINGW console (either the one install by Git or the one installed through Docker) as some of the commands are not available in powershell (such as touch).
 	From his you'll learn:
-	- How does Docker work.
-	- What is the purpose of Docker.
+	- How Docker works
+	- Docker's purpose
 	- Containers and images
-	- How to push and pull images from Docker hub.
-	- Building images from dockerfiles.
+	- How to push and pull images from Docker hub
+	- How to build images from dockerfiles
 + Read through [Docker Compose](https://docs.docker.com/engine/getstarted/step_four/) to understand how to run multiple containers.
 + [This](https://www.youtube.com/watch?v=pGYAg7TMmp0) series of videos gives a good introductory explanation and a good series of examples on how to deploy and scale a service using Docker. Only required to watch the first three videos.
-+ [This](https://prakhar.me/docker-curriculum/#prerequisites) is a very thorough explanation on how to deploy a whole web app to Amazon using Docker. Read through to understand usage how to use multiple containers using different techniques, port-forwarding, and how to fsearch for existing images and services in Docker Hub. There's no need to follow the tutorial as many of the topics covered will also get covered by other groups, but reading it explains important usage cases for Docker.
++ [This](https://prakhar.me/docker-curriculum/#prerequisites) is a very thorough explanation on how to deploy a whole web app to Amazon using Docker. Read through to understand usage how to use multiple containers using different techniques, port-forwarding, and how to search for existing images and services in Docker Hub. There's no need to follow the tutorial as many of the topics covered will also get covered by other groups, but reading it explains important usage cases for Docker.
 + Read the [JHipster documentation](https://jhipster.github.io/docker-compose/) on how to package a product from JHipster into a container. 
 
 ### Acknowledgements
